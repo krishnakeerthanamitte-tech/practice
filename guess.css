@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana;
+    font-size: 3em;
+    text-align: center;
+}
+#mylabel{
+    padding: 10px;
+    font-size: 5em;
+    line-height: 10px;
+}
+#mysubmit{
+    font-size: 2em;
+    margin: 5px;
+}
