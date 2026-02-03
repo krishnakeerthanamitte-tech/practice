@@ -1,0 +1,71 @@
+body{
+    padding-top: 150px;
+    line-height: 3px;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+.products{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    gap: 10px;
+    
+}
+#product1{
+    border: grey solid 3px;
+    border-radius: 3px;
+    padding: 5px;
+    width: 150px;
+    text-align: center;
+    height: 200px;
+}
+#product2{
+    border: grey solid 3px;
+    border-radius: 3px;
+    padding: 5px;
+    width: 150px;
+    text-align: center;
+    height: 200px;
+}
+#product3{
+    border: grey solid 3px;
+    border-radius: 3px;
+    padding: 5px;
+    width: 150px;
+    text-align: center;
+    height: 200px;
+}
+#product4{
+    border: grey solid 3px;
+    padding: 5px;
+    width: 150px;
+    text-align: center;
+    height: 200px;
+    border-radius: 3px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: gainsboro solid 3px;
+    border-radius: 3px;
+}
+.price{
+    text-align: center;
+    font-weight: bold;
+    color: darkgreen;
+}
+
+
+.button{
+    color: white;
+    border: rgb(47, 47, 242) solid 1px;
+    border-radius: 3px;
+    background-color: rgb(47, 47, 242) ;
+    width: 95%;
+    height: 10%;
+}
